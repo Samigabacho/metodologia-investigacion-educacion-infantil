@@ -2,9 +2,11 @@
 title: Inicio
 layout: default
 nav_order: 1
+has_children: true
 ---
 
 # Metodología de la Investigación en Educación Infantil
+
 
 Este libro web recoge el material docente de la asignatura **Metodología de la Investigación en Educación Infantil**, correspondiente al Grado en Educación Infantil.
 
