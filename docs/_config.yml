@@ -12,3 +12,8 @@ plugins:
 nav_enabled: true
 search_enabled: true
 heading_anchors: true
+
+aux_links:
+  "Repositorio en GitHub":
+    - "https://github.com/Samigabacho/metodologia-investigacion-educacion-infantil"
+aux_links_new_tab: true
