@@ -1,26 +1,14 @@
 title: "Metodología de la Investigación en Educación Infantil"
 description: "Libro web docente para el Grado en Educación Infantil"
-remote_theme: just-the-docs/just-the-docs
 
-url: "https://Samigabacho.github.io"
+url: "https://samigabacho.github.io"
 baseurl: "/metodologia-investigacion-educacion-infantil"
 
-aux_links:
-  "Repositorio en GitHub":
-    - "https://github.com/Samigabacho/metodologia-investigacion-educacion-infantil"
+remote_theme: just-the-docs/just-the-docs
 
-aux_links_new_tab: true
+plugins:
+  - jekyll-remote-theme
 
 nav_enabled: true
 search_enabled: true
-
 heading_anchors: true
-
-footer_content: "Material docente de acceso abierto. © Samuel Parra León"
-
-plugins:
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: false
