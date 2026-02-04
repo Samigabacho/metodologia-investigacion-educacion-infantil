@@ -1,8 +1,10 @@
 ---
 title: Introducción general
 layout: default
-nav_order: 2
+nav_order: 1
+parent: Inicio
 ---
+
 
 # Introducción general
 La investigación educativa forma parte esencial del desarrollo y la mejora de la educación. Sin embargo, para muchos estudiantes del Grado en Educación Infantil, la investigación suele percibirse como algo lejano, complejo o reservado a especialistas. Esta percepción, en gran medida, se debe a una imagen excesivamente técnica o abstracta de la investigación, que no siempre conecta con la práctica educativa real.
