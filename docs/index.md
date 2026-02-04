@@ -50,6 +50,6 @@ Puedes reutilizar y adaptar el contenido con fines no comerciales, siempre que c
 
 🔗 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-{: .note }
+
 Este material se encuentra en **revisión y mejora continua**. Los contenidos pueden actualizarse para incorporar nuevas evidencias, ajustes conceptuales o mejoras docentes.
 
