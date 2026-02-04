@@ -5,7 +5,7 @@ parent: Tema 1. Nociones básicas sobre investigación en educación
 nav_order: 1
 ---
 
-# **Bloque 1. El conocimiento y el conocimiento científico
+# **Bloque 1. El conocimiento y el conocimiento científico**
 
 Antes de abordar qué es la investigación educativa y cómo se lleva a cabo, es necesario reflexionar sobre un concepto básico: el **conocimiento**. Investigar implica generar conocimiento, pero no todo conocimiento tiene el mismo valor ni se obtiene del mismo modo.
 
