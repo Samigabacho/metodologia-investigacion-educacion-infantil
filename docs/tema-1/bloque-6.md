@@ -1,5 +1,5 @@
 ---
-title: Bloque 6. 
+title: Bloque 6. Paradigmas de investigación educativa
 layout: default
 parent: Tema 1. Nociones básicas sobre investigación en educación
 nav_order: 6
