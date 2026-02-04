@@ -8,7 +8,7 @@ parent: Inicio
 
 
 
-# Tema 1. Nociones básicas sobre investigación en educación
+# **Tema 1. Nociones básicas sobre investigación en educación**
 
 
 En este tema se introducen los **conceptos fundamentales** necesarios para comprender qué es la investigación educativa, cómo se construye el conocimiento científico y cuáles son sus posibilidades y límites en el ámbito de la educación.
