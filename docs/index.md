@@ -36,6 +36,6 @@ Este material está pensado principalmente para:
 ## Autoría y uso
 
 **Autor:** Samuel Parra León  
-**Institución:** Universidad de Jaén  
+**Institución:** Departamento Pedagogía (MIDE) Universidad de Jaén  
 
 Este material se comparte como recurso docente de acceso abierto, con fines educativos.
