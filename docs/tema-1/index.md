@@ -3,7 +3,9 @@ title: Tema 1. Nociones básicas sobre investigación en educación
 layout: default
 nav_order: 3
 has_children: true
+parent: Inicio
 ---
+
 
 # Tema 1. Nociones básicas sobre investigación en educación
 
