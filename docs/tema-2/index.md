@@ -1,27 +1,23 @@
 ---
-title: Tema 2. Proceso General de Investigación
+title: Tema 2. Proceso general de investigación
 layout: default
 nav_order: 3
 has_children: true
 parent: Inicio
 ---
 
+# Tema 2. Proceso general de investigación
 
+En este tema se presenta una visión general del proceso de investigación educativa, desde la identificación de un problema hasta la comunicación de los resultados obtenidos.
 
-# **Tema 2. NProceso General de Investigación**
-
-
-En este tema se introducen los **conceptos fundamentales** necesarios para comprender qué es la investigación educativa, cómo se construye el conocimiento científico y cuáles son sus posibilidades y límites en el ámbito de la educación.
-
-El objetivo de este tema es proporcionar una **base conceptual sólida**, que permita al alumnado situar correctamente los contenidos metodológicos que se desarrollarán en los temas posteriores.
+El objetivo es comprender cómo se organiza el trabajo investigador y qué decisiones debe tomar el investigador a lo largo del estudio.
 
 A lo largo del tema se abordarán cuestiones como:
-- el concepto de conocimiento y conocimiento científico,
-- la ciencia y la teoría,
-- el método científico,
-- la investigación educativa,
-- los paradigmas de investigación,
-- las modalidades de investigación,
-- y los límites y la ética de la investigación educativa.
 
-Este marco inicial es imprescindible para comprender el sentido y la utilidad de la investigación en Educación Infantil.
+- el proceso general de investigación,
+- la formulación del problema,
+- la revisión de la literatura,
+- las hipótesis,
+- las variables,
+- la población y la muestra,
+- y las técnicas de recogida de datos.
