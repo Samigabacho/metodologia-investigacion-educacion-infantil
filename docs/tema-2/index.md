@@ -6,7 +6,7 @@ has_children: true
 parent: Inicio
 ---
 
-# Tema 2. Proceso general de investigación
+# **Tema 2. Proceso general de investigación**
 
 En este tema se presenta una visión general del proceso de investigación educativa, desde la identificación de un problema hasta la comunicación de los resultados obtenidos.
 
