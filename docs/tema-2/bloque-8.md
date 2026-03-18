@@ -1,5 +1,5 @@
 ---
-title: Bloque 8. 
+title: Bloque 8. Técnicas e instrumentos para la recogida de datos
 layout: default
 parent: Tema 2. Proceso general de investigación
 nav_order: 8
