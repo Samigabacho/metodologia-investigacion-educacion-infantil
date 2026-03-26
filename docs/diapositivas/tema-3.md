@@ -1,5 +1,5 @@
 ---
-title: Tema 3. Metodología Empírico-Analítica / Cuantitativa
+title: Tema 3. Metodología Empírico-Analítica (Cuantitativa)
 layout: default
 parent: Diapositivas
 nav_order: 3
