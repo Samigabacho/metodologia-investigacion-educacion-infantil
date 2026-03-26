@@ -31,6 +31,14 @@ A través de esta herramienta podéis generar matrices de datos ajustadas a vues
 
 ---
 
+## 💡 Recomendación
+
+Trabajad siempre con datos simulados antes de analizar datos reales.  
+Esto os permitirá comprobar que vuestro diseño y análisis funcionan correctamente.
+
+---
+
+
 ## Acceso directo
 
 👉 [Abrir plantilla en Google Sheets](https://docs.google.com/spreadsheets/d/1MrWB_92xVQjs6uBgDNClws32qUpUZgxn-buoJICrdT8/edit?gid=1528561158#gid=1528561158)
