@@ -11,12 +11,23 @@ A través de esta herramienta podéis generar matrices de datos ajustadas a vues
 
 ---
 
+## ⚠️ Importante antes de empezar
+
+> **No editéis la plantilla original.**
+>
+> Para trabajar correctamente:
+> 1. Haced una copia en vuestro Google Drive  
+> 2. Trabajad siempre sobre vuestra copia  
+> 3. Conservad la estructura del archivo para evitar errores en los datos  
+
+---
+
 ## Uso de la plantilla
 
-1. Accede a la hoja.
-2. Haz una copia en tu Drive.
-3. Modifica los parámetros según tu diseño.
-4. Descarga los datos o úsalos para el análisis.
+1. Accede a la hoja  
+2. Haz una copia en tu Drive  
+3. Modifica los parámetros según tu diseño  
+4. Descarga los datos o utilízalos para el análisis  
 
 ---
 
