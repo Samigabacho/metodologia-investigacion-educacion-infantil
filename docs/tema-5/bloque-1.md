@@ -82,4 +82,20 @@ Grupo B: 6, 6, 6, 6, 6
 - Primer paso de todo análisis  
 - Describe, no concluye  
 - Media ≠ toda la información  
-- La variabilidad es fundamental  
+- La variabilidad es fundamental
+
+  ---
+
+## 🧪 Aplicación práctica
+
+Puedes utilizar el generador de datos para crear tus propios conjuntos y aplicar estos conceptos:
+
+👉 [Acceder al generador de datos](../recursos/generadordatos)
+
+Prueba a:
+
+- generar dos grupos  
+- comparar medias  
+- observar la dispersión  
+
+Esto te ayudará a comprender mejor los conceptos.
