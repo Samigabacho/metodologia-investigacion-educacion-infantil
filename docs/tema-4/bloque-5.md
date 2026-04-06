@@ -1,5 +1,5 @@
 ---
-title: Bloque 5. Síntesis comparativa: metodología cuantitativa vs cualitativa
+title: "Bloque 5. Síntesis comparativa: metodología cuantitativa vs cualitativa"
 layout: default
 parent: Tema 4. Metodología interpretativa-constructivista / cualitativa
 nav_order: 5
