@@ -1,5 +1,5 @@
 ---
-title: "Casos prácticos tipo examen"
+title: "Casos prácticos"
 layout: default
 parent: Tema 5. Análisis estadístico (enfoque conceptual)
 nav_order: 5
@@ -7,7 +7,7 @@ nav_order: 5
 
 # Casos prácticos
 
-En esta sección se presentan casos similares a los que pueden aparecer en el examen.
+En esta sección se presentan casos similares a los que veremos en clase tanto en las sesiones teóricas como en las prácticas.
 
 El objetivo es evaluar la capacidad de **interpretar datos y tomar decisiones razonadas**, no realizar cálculos.
 
@@ -150,7 +150,7 @@ Un estudio encuentra mejoras en un centro educativo concreto.
 
 ---
 
-# 📌 Ideas clave para el examen
+# 📌 Ideas clave
 
 - La media no es suficiente  
 - La significación no implica importancia  
