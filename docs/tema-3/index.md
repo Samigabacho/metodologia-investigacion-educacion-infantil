@@ -8,12 +8,9 @@ parent: Inicio
 
 # **Tema 3. Metodología empírico-analítica / cuantitativa**
 
-*1. Consideraciones generales en la investigación empírico-analítica*
-La metodología empírico-analítica, también denominada metodología cuantitativa, se caracteriza por el estudio sistemático de los fenómenos educativos mediante la medición, el control y el análisis de variables.
+Este tema es uno de los temas centrales del temario.
 
-Su objetivo principal es:
-- describir,
-- predecir,
-- y explicar los fenómenos educativos,
+En él se abordará el Paradigma Empirico-analitico asociado a la metodología cuantitativa.
 
-tratando de establecer relaciones fundamentadas entre variables y, cuando es posible, relaciones de causalidad.
+Además de tener un importante caracter teórico servirá para poder aplicar este contenido ejemplos y casos prácticas, aportándole un importante valor aplicado y transferible a el aspecto práctico.
+ 
