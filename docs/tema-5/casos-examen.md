@@ -5,7 +5,7 @@ parent: Tema 5. Análisis estadístico (enfoque conceptual)
 nav_order: 5
 ---
 
-# Casos prácticos tipo examen
+# Casos prácticos
 
 En esta sección se presentan casos similares a los que pueden aparecer en el examen.
 
